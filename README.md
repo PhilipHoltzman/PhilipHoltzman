@@ -2,7 +2,6 @@
 - 👀 I’m interested in Godot, Full Stack Development, Graphic Design, and Music Production
 - 🌱 I’m currently learning React + Node.js
 - 📫 How to reach me:
-- 
 - https://twitter.com/PhilipHoltzman
 - https://www.linkedin.com/in/felipeholtzman/
 

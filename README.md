@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PhilipHoltzman a fullstack developer
 - 👀 I’m interested in Godot, Full Stack Development, Graphic Design, and Music Production
-- 🌱 I’m currently working to improve my portfolio
+- 🌱 I’m currently learning Svelte and Typescript
 - 📫 How to reach me:
 - https://twitter.com/PhilipHoltzman
 - https://www.linkedin.com/in/felipeholtzman/
